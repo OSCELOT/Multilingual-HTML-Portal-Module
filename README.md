@@ -62,5 +62,5 @@ FontAwesome can then be used as normal.
 
 ### ChangeLog
 
-1.4.20 -> 2.1.23: Refactored to use Spring and the most recent Bb APIs. Added support for slick.js and fontawesome.
-2.1.23 -> 2.1.34: Fixed bugs with automatic language fallback not firing correctly and automatic title substitution failing.
+* 1.4.20 -> 2.1.23: Refactored to use Spring and the most recent Bb APIs. Added support for slick.js and fontawesome.
+* 2.1.23 -> 2.1.34: Fixed bugs with automatic language fallback not firing correctly and automatic title substitution failing.
